@@ -1,0 +1,53 @@
+{
+  "userInfo" : {
+    "name": "Aung Thiha",
+    "age": 21,
+    "about" : "this is about",
+    "address" : [
+      {
+        "city" : "Yangon",
+        "quarter" : "NweAye",
+        "street" : "3rd Street",
+        "home_no" : "262"
+      }
+    ],
+    "info" : {
+        "graduated" : true,
+        "certified" : ["ABC Uni"],
+        "phone" : "9079817921",
+        "email" : "test@gmai.com",
+        "social" : {
+            "facebook" : "facebook.com/aungthiha",
+            "instagram" : "instagram/aungthiha",
+            "twitter" : "twitter.com/aungthiha",
+            "linkedin" : "linkdein.com/aungthiha"
+        }
+    }
+  },
+  "post" : [
+    {
+      "title" : "Post title1",
+      "create_at" : "2020/05/07",
+      "category_name" : "Coffee",
+      "scr_name" : "src/post/1.jpg",
+      "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut, perspiciatis quae dignissimos alias magni laudantium. Rerum, quidem tempore quaerat ipsum aspernatur dolorem officiis aliquid eaque inventore assumenda fugiat perferendis placeat.",
+      "sort_list" : 3
+    },
+    {
+      "title" : "Post title2",
+      "create_at" : "2020/05/07",
+      "category_name" : "Makeup",
+      "scr_name" : "src/post/2.jpg",
+      "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut, perspiciatis quae dignissimos alias magni laudantium. Rerum, quidem tempore quaerat ipsum aspernatur dolorem officiis aliquid eaque inventore assumenda fugiat perferendis placeat.",
+      "sort_list" : 3
+    },
+    {
+      "title" : "Post title3",
+      "create_at" : "2020/05/07",
+      "category_name" : "Beer",
+      "scr_name" : "src/post/3.jpg",
+      "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut, perspiciatis quae dignissimos alias magni laudantium. Rerum, quidem tempore quaerat ipsum aspernatur dolorem officiis aliquid eaque inventore assumenda fugiat perferendis placeat.",
+      "sort_list" : 3
+    }
+  ]
+}
